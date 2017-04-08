@@ -1,1 +1,6 @@
 c:\users\kalynn denton\documents\visual studio 2015\Projects\Inclass04072017\Inclass04072017\bin\Debug\Inclass04072017.exe.config
+c:\users\kalynn denton\documents\visual studio 2015\Projects\Inclass04072017\Inclass04072017\bin\Debug\Inclass04072017.exe
+c:\users\kalynn denton\documents\visual studio 2015\Projects\Inclass04072017\Inclass04072017\bin\Debug\Inclass04072017.pdb
+c:\users\kalynn denton\documents\visual studio 2015\Projects\Inclass04072017\Inclass04072017\obj\Debug\Inclass04072017.csprojResolveAssemblyReference.cache
+c:\users\kalynn denton\documents\visual studio 2015\Projects\Inclass04072017\Inclass04072017\obj\Debug\Inclass04072017.exe
+c:\users\kalynn denton\documents\visual studio 2015\Projects\Inclass04072017\Inclass04072017\obj\Debug\Inclass04072017.pdb
