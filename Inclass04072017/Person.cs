@@ -20,6 +20,7 @@ namespace Inclass04072017
 
         public Person(string name, int age, string homeTown, string favFood)//Constructor with parameters
         {
+            //"This" always refers to the field at the top ^
             this.name = name;
             this.age = age;
             this.homeTown = homeTown;

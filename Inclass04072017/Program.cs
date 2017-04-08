@@ -10,6 +10,7 @@ namespace Inclass04072017
     {
         static void Main(string[] args)
         {
+            Person person1 = new Person("Amy", 30, "Washington, DC", "Chicken");
         }
     }
 }
